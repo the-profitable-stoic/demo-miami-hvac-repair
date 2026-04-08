@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Miami HVAC Repair",
+    "phone": "13059122291",
+    "category": "hvac",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "hvac-red-charge",
+      "categoryGroup": "hvac",
+      "name": "Red Charge",
+      "recipeFile": "hvac/red-charge.astro",
+      "colors": {
+        "primary": "#2563EB",
+        "primaryDark": "#1E40AF",
+        "primaryLight": "#c9d8fa",
+        "secondary": "#2159d4",
+        "accent": "#EF4444",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2563EB",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "hvac/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Trusted HVAC Experts",
+      "heroSubline": "Keeping your home cool and comfortable, year-round. Expert HVAC services throughout Miami-Dade County.",
+      "aboutTitle": "Your Comfort, Our Commitment",
+      "aboutText": [
+        "Miami HVAC Repair started with a simple goal: to provide reliable and honest HVAC services to our neighbors. We understand the unique challenges of Miami's climate, from the intense humidity to the threat of hurricanes, and we're dedicated to ensuring your home remains a comfortable oasis.",
+        "We believe in transparent communication, fair pricing, and quality workmanship. Our team is committed to providing personalized solutions tailored to your specific needs. We take the time to listen, assess your situation, and explain your options clearly.",
+        "As a local business, we're deeply invested in the Miami community. We actively support local initiatives and strive to create lasting relationships with our customers. Your satisfaction is our top priority, and we're not happy until you are."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Miami's unique climate and building codes."
+        },
+        {
+          "title": "Fast Response",
+          "description": "Same-day and emergency services available to keep you comfortable."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Upfront quotes with no hidden fees or surprises."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "Experienced technicians dedicated to doing the job right the first time."
+        }
+      ],
+      "ctaHeadline": "Stay Cool and Comfortable",
+      "ctaSubline": "Schedule your HVAC service today!"
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast and reliable AC repair services to restore your comfort quickly.",
+        "description": "Is your AC blowing warm air? Making strange noises? Don't sweat it! Miami HVAC Repair offers comprehensive AC repair services to diagnose and fix any issue, big or small. Our experienced technicians are equipped with the latest tools and technology to accurately assess the problem and provide efficient solutions. We service all makes and models of air conditioning systems, from central AC units to ductless mini-splits. We understand the urgency of AC repairs in Miami's heat, so we offer fast response times and emergency service options. We'll get your AC back up and running in no time, ensuring your home remains a cool and comfortable haven. We address issues like refrigerant leaks, compressor failures, blower motor problems, and thermostat malfunctions. \n\nOur repair process involves a thorough inspection, clear explanation of the problem, and upfront pricing before any work begins. We use only high-quality replacement parts to ensure lasting repairs and optimal performance. We also provide tips on how to maintain your AC system to prevent future problems. So, don't suffer through another sweltering Miami day – call Miami HVAC Repair for expert AC repair services you can trust.",
+        "process": [
+          "Step 1: Diagnose the issue with advanced tools.",
+          "Step 2: Explain the problem and provide a transparent quote.",
+          "Step 3: Perform the repair using quality parts.",
+          "Step 4: Test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Expert diagnosis and repair",
+          "Upfront and transparent pricing",
+          "Improved AC performance and efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We offer same-day and emergency service options to address urgent AC repair needs. Our goal is to get your AC back up and running as quickly as possible."
+          },
+          {
+            "question": "Do you service all brands of AC units?",
+            "answer": "Yes, our technicians are trained and experienced in servicing all makes and models of air conditioning systems, including central AC, ductless mini-splits, and window units."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include warm air blowing from vents, unusual noises, frequent cycling, leaks, and a sudden increase in energy bills. If you notice any of these issues, it's best to call for professional AC repair."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Professional AC installation for optimal cooling and energy efficiency.",
+        "description": "Whether you're upgrading your existing AC system or installing a new one, Miami HVAC Repair provides expert AC installation services tailored to your specific needs. We understand the importance of a properly sized and installed AC unit for optimal cooling performance, energy efficiency, and long-term reliability. Our experienced technicians will assess your home's cooling needs, recommend the best AC system for your budget and requirements, and ensure a seamless installation process. We consider factors such as square footage, insulation, window placement, and sun exposure to determine the ideal AC unit for your home. We install all types of AC systems, including central AC, ductless mini-splits, and heat pumps.\n\nOur installation process includes removing the old unit (if applicable), properly installing the new unit, connecting all electrical and refrigerant lines, and testing the system to ensure optimal performance. We also provide guidance on how to operate and maintain your new AC system for years of trouble-free operation. We are familiar with Miami-Dade County building codes and permitting requirements, ensuring that your AC installation is compliant and safe. With a new, energy-efficient AC system, you'll enjoy improved comfort, lower energy bills, and a reduced carbon footprint.",
+        "process": [
+          "Step 1: Assess your home's cooling needs and recommend the best AC system.",
+          "Step 2: Provide a detailed and transparent installation quote.",
+          "Step 3: Install the new AC unit according to manufacturer specifications.",
+          "Step 4: Test the system and provide operating instructions."
+        ],
+        "benefits": [
+          "Improved cooling performance",
+          "Increased energy efficiency",
+          "Lower energy bills",
+          "Long-term reliability"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "Our technicians will perform a load calculation to determine the appropriate size AC unit for your home based on factors such as square footage, insulation, and window placement."
+          },
+          {
+            "question": "What is the difference between a central AC and a ductless mini-split?",
+            "answer": "Central AC systems use ductwork to distribute cool air throughout the home, while ductless mini-splits provide targeted cooling to individual rooms or zones. Mini-splits are a great option for homes without existing ductwork or for those who want to control the temperature in specific areas."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation time depends on the type of AC system and the complexity of the installation. A standard central AC installation usually takes one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, mold, and other contaminants can accumulate in your air ducts, affecting your indoor air quality and potentially triggering allergies or respiratory problems. Miami HVAC Repair offers professional duct cleaning services to remove these contaminants and improve the air you breathe. Our experienced technicians use specialized equipment to thoroughly clean your ductwork, removing dust, debris, and allergens. We use powerful vacuums and brushes to dislodge contaminants and ensure that your ducts are clean and free of obstructions. We also sanitize your ducts to kill any remaining bacteria or mold.\n\nOur duct cleaning process includes inspecting your ductwork for leaks or damage, sealing any leaks to prevent future contamination, and cleaning all vents and registers. We recommend duct cleaning every 3-5 years, or more frequently if you have pets, allergies, or respiratory problems. Clean air ducts can also improve the efficiency of your HVAC system, as a clean system doesn't have to work as hard to circulate air. This can lead to lower energy bills and a more comfortable home. Breathe easier with professional duct cleaning from Miami HVAC Repair. Especially important in Miami due to humidity and mold concerns.",
+        "process": [
+          "Step 1: Inspect the ductwork for leaks, damage, and contamination.",
+          "Step 2: Use specialized equipment to dislodge and remove contaminants.",
+          "Step 3: Sanitize the ducts to kill any remaining bacteria or mold.",
+          "Step 4: Clean all vents and registers."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergies and respiratory problems",
+          "Improved HVAC system efficiency",
+          "Lower energy bills"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend duct cleaning every 3-5 years, or more frequently if you have pets, allergies, or respiratory problems."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can remove allergens such as dust, pollen, and pet dander from your ductwork, which can help to reduce allergy symptoms."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "Our technicians use specialized equipment to minimize dust and debris during the duct cleaning process. We also take care to protect your home and belongings."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Extend the life of your HVAC system with regular maintenance services.",
+        "description": "Regular HVAC maintenance is essential for keeping your system running efficiently and preventing costly repairs. Miami HVAC Repair offers comprehensive HVAC maintenance services to ensure that your system is in top condition. Our experienced technicians will inspect your system, clean components, lubricate moving parts, and identify any potential problems before they become major issues. We offer customized maintenance plans tailored to your specific needs and budget. Our maintenance services include checking refrigerant levels, cleaning coils, inspecting electrical connections, and testing safety controls. \n\nRegular maintenance can extend the life of your HVAC system, improve its energy efficiency, and prevent breakdowns. In Miami, with the constant AC use, maintenance is especially critical. A well-maintained system will also provide better indoor air quality and a more comfortable home. We can also check for signs of salt air corrosion, a common issue in coastal areas like Miami, and recommend preventative measures. Don't wait until your HVAC system breaks down – schedule regular maintenance with Miami HVAC Repair and enjoy peace of mind knowing that your system is in good hands.",
+        "process": [
+          "Step 1: Inspect the system for damage, leaks, and wear.",
+          "Step 2: Clean coils, filters, and other components.",
+          "Step 3: Lubricate moving parts and tighten electrical connections.",
+          "Step 4: Test the system to ensure optimal performance and safety."
+        ],
+        "benefits": [
+          "Extended HVAC system life",
+          "Improved energy efficiency",
+          "Reduced repair costs",
+          "Better indoor air quality"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my HVAC system maintained?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring before the start of the cooling season."
+          },
+          {
+            "question": "What is included in an HVAC maintenance service?",
+            "answer": "Our HVAC maintenance service includes a thorough inspection of your system, cleaning of coils and filters, lubrication of moving parts, and testing of electrical connections and safety controls."
+          },
+          {
+            "question": "Can HVAC maintenance prevent breakdowns?",
+            "answer": "Yes, regular HVAC maintenance can identify and address potential problems before they become major issues, helping to prevent breakdowns and extend the life of your system."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-hvac-service",
+        "name": "Emergency HVAC Service",
+        "shortDescription": "24/7 emergency HVAC repair services when you need them most.",
+        "description": "HVAC emergencies can happen at any time, day or night. That's why Miami HVAC Repair offers 24/7 emergency HVAC repair services to address urgent issues quickly and efficiently. Whether your AC breaks down in the middle of a sweltering Miami summer night or your furnace stops working on a chilly winter morning, our experienced technicians are available to provide prompt and reliable service. We understand the discomfort and inconvenience of HVAC emergencies, so we prioritize emergency calls and strive to arrive at your home as soon as possible. \n\nOur emergency HVAC services include diagnosing the problem, providing a clear explanation of the issue, and offering upfront pricing before any work begins. We stock our service vehicles with a wide range of parts and equipment to handle most common HVAC emergencies on the spot. We also offer temporary cooling or heating solutions if necessary to ensure your comfort while we complete the repairs. Don't suffer through an HVAC emergency alone – call Miami HVAC Repair for fast and reliable 24/7 emergency service.",
+        "process": [
+          "Step 1: Answer your call promptly and dispatch a technician immediately.",
+          "Step 2: Diagnose the problem quickly and efficiently.",
+          "Step 3: Provide a clear explanation of the issue and upfront pricing.",
+          "Step 4: Repair the system using quality parts and equipment."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Expert diagnosis and repair",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an HVAC emergency?",
+            "answer": "An HVAC emergency is any situation that poses an immediate threat to your comfort, safety, or health, such as a complete AC or furnace breakdown, a gas leak, or a carbon monoxide alarm."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We prioritize emergency calls and strive to arrive at your home as soon as possible, typically within 1-2 hours depending on your location and the availability of technicians."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, we do charge a premium for emergency service to cover the cost of providing 24/7 availability and expedited response times. However, we always provide upfront pricing before any work begins."
+          }
+        ]
+      },
+      {
+        "slug": "air-purification",
+        "name": "Air Purification Systems",
+        "shortDescription": "Install an air purification system for cleaner, healthier indoor air.",
+        "description": "Improve the air quality in your Miami home with an air purification system from Miami HVAC Repair. With year-round humidity and potential for mold growth, clean air is crucial. Our systems remove dust, pollen, mold spores, bacteria, and other airborne contaminants from your indoor air, creating a healthier and more comfortable living environment. We offer a variety of air purification solutions, including whole-house air purifiers, UV-C lights, and HEPA filters. Our experienced technicians will assess your home's air quality needs and recommend the best system for your specific situation. \n\nWhole-house air purifiers are installed in your HVAC system and clean the air as it circulates throughout your home. UV-C lights kill bacteria, viruses, and mold spores. HEPA filters capture even the smallest particles, such as dust mites and pet dander. An air purification system can help to reduce allergies, asthma symptoms, and other respiratory problems. Breathe easier and enjoy a healthier home with an air purification system from Miami HVAC Repair. Especially beneficial for homes near the coast dealing with salt air and potential mold.",
+        "process": [
+          "Step 1: Assess your home's air quality needs.",
+          "Step 2: Recommend the best air purification system for your situation.",
+          "Step 3: Install the system according to manufacturer specifications.",
+          "Step 4: Test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "Cleaner, healthier indoor air",
+          "Reduced allergies and asthma symptoms",
+          "Elimination of odors and contaminants",
+          "Improved overall comfort"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of an air purification system?",
+            "answer": "Air purification systems can remove dust, pollen, mold spores, bacteria, and other airborne contaminants from your indoor air, creating a healthier and more comfortable living environment."
+          },
+          {
+            "question": "What types of air purification systems do you offer?",
+            "answer": "We offer a variety of air purification solutions, including whole-house air purifiers, UV-C lights, and HEPA filters."
+          },
+          {
+            "question": "How do I know which air purification system is right for me?",
+            "answer": "Our experienced technicians will assess your home's air quality needs and recommend the best system for your specific situation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair is proud to offer our comprehensive HVAC services to the residents and businesses of Fort Lauderdale, Florida. Known for its beautiful waterfront properties and vibrant community, Fort Lauderdale presents unique HVAC challenges due to its year-round heat and humidity. Many homes in the area, particularly those built in the 1960s and 70s, require specialized maintenance and upgrades to ensure optimal cooling and energy efficiency. \n\nWe understand the specific needs of Fort Lauderdale homeowners and businesses. Our team is experienced in servicing and installing a wide range of HVAC systems, from central air conditioning units to ductless mini-splits, ensuring your comfort and well-being throughout the year. Whether you need routine maintenance, emergency repairs, or a complete system replacement, Miami HVAC Repair is here to provide reliable and affordable solutions.",
+        "localContext": "We understand Fort Lauderdale's unique blend of older waterfront homes and modern developments, and we tailor our HVAC services to meet these specific needs.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair provides expert HVAC services to the planned community of Coral Springs, Florida. With its predominantly 1980s and 90s homes, Coral Springs relies heavily on efficient and reliable air conditioning systems to combat the year-round heat and humidity. We specialize in maintaining and repairing HVAC systems commonly found in these homes, ensuring optimal performance and energy savings.\n\nOur team is dedicated to providing prompt and professional service to Coral Springs residents. We offer a full range of HVAC services, including routine maintenance, emergency repairs, and new system installations. We understand the importance of a comfortable and healthy home environment, and we strive to deliver solutions that meet your specific needs and budget.",
+        "localContext": "We recognize the specific HVAC needs of Coral Springs' planned community homes, built primarily in the 1980s and 90s, and offer tailored solutions for these residences.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair is committed to serving the growing community of Pembroke Pines, Florida. Known for its sprawling planned developments built in the 1990s and beyond, Pembroke Pines residents depend on reliable air conditioning to cope with the year-round heat and humidity. We offer comprehensive HVAC services to ensure your home remains comfortable and energy-efficient.\n\nOur team is experienced in working with the HVAC systems commonly found in Pembroke Pines homes. We provide routine maintenance, emergency repairs, and new system installations, all tailored to meet your specific needs. Whether you're dealing with a malfunctioning AC unit or looking to upgrade to a more energy-efficient system, Miami HVAC Repair is here to help.",
+        "localContext": "Understanding the HVAC demands of Pembroke Pines' newer planned developments, we deliver efficient and dependable service.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair is proud to offer premium HVAC services to the residents of Boca Raton, Florida. Known for its luxury waterfront estates and discerning homeowners, Boca Raton demands the highest quality HVAC solutions to maintain comfortable and elegant living spaces in the face of year-round heat and humidity. We specialize in servicing and installing high-end HVAC systems that meet the unique needs of these properties.\n\nOur team understands the importance of both performance and aesthetics. We offer a wide range of services, from routine maintenance and repairs to complete system upgrades and installations, using only the finest materials and techniques. Whether you're looking to maintain your existing system or upgrade to a more energy-efficient and technologically advanced solution, Miami HVAC Repair is here to provide exceptional service and results.",
+        "localContext": "We cater to Boca Raton's luxury waterfront estates with high-end HVAC solutions that prioritize both performance and aesthetics.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair is dedicated to providing reliable HVAC services to the historic city of West Palm Beach, Florida. With its diverse architecture, including many homes built in the 1920s-50s, West Palm Beach presents unique HVAC challenges due to the year-round heat and humidity. We specialize in maintaining and repairing older HVAC systems while also offering modern, energy-efficient upgrades.\n\nOur team understands the specific needs of West Palm Beach homeowners. We offer a full range of HVAC services, including routine maintenance, emergency repairs, and new system installations. We're committed to preserving the charm of West Palm Beach homes while ensuring optimal comfort and energy efficiency.",
+        "localContext": "We understand the HVAC needs of West Palm Beach's historic homes, built in the 1920s-50s, and offer specialized service to maintain these systems.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair provides expert HVAC services throughout the vibrant city of Miami, Florida. From the bustling downtown core to the residential neighborhoods, Miami faces the constant challenge of year-round heat and humidity. We offer comprehensive HVAC solutions to keep homes and businesses comfortable and energy-efficient.\n\nOur team is experienced in servicing all types of HVAC systems, from central air conditioning units to ductless mini-splits, and we're equipped to handle any repair or installation. We understand the unique needs of Miami residents and businesses, and we're committed to providing prompt, reliable, and affordable service.",
+        "localContext": "We are committed to serving the diverse HVAC needs of Miami's homes and businesses and ensuring comfort for all.",
+        "nearbyAreas": [
+          "Miami Beach",
+          "Coral Gables",
+          "Hialeah"
+        ]
+      },
+      {
+        "city": "Hialeah",
+        "slug": "hialeah-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair is proud to serve the community of Hialeah, Florida, offering reliable and affordable HVAC services. With its large residential areas, Hialeah residents depend on efficient air conditioning to combat the year-round heat and humidity. We provide comprehensive HVAC solutions tailored to the specific needs of Hialeah homes.\n\nOur team is experienced in working with a variety of HVAC systems, and we offer routine maintenance, emergency repairs, and new system installations. We understand the importance of a comfortable home environment, and we are dedicated to providing prompt and professional service to Hialeah residents.",
+        "localContext": "We provide reliable HVAC services to Hialeah's residential communities, ensuring comfort and efficiency year-round.",
+        "nearbyAreas": [
+          "Miami Lakes",
+          "Doral",
+          "Miami Springs"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Miami HVAC Repair offers expert HVAC services to the residents and businesses of Miramar, Florida. As a rapidly growing city, Miramar relies on dependable air conditioning systems to combat the year-round heat and humidity. We offer a full range of HVAC solutions to ensure your comfort and energy efficiency.\n\nOur team is experienced in servicing and installing a wide variety of HVAC systems, and we are committed to providing prompt, reliable, and affordable service. Whether you need routine maintenance, emergency repairs, or a complete system replacement, Miami HVAC Repair is here to help.",
+        "localContext": "We understand the growing needs of Miramar and provide comprehensive HVAC services to ensure comfort and efficiency for its residents and businesses.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Pembroke Park",
+          "West Park"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "My AC stopped working in the middle of July! Miami HVAC Repair came out within an hour and quickly diagnosed the problem. The technician, David, was very professional and explained everything clearly. He fixed the issue quickly and the price was very reasonable. I highly recommend them!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Ricardo S.",
+        "rating": 4,
+        "service": "Duct Cleaning",
+        "text": "We recently had our ducts cleaned by Miami HVAC Repair and noticed a significant improvement in air quality. The team was punctual, efficient, and left our home spotless. I would definitely use them again.",
+        "date": "2025-06-02"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Excellent service from start to finish. They helped us choose the right AC unit for our condo and the installation was seamless. The team was very knowledgeable and answered all of our questions. We are very happy with our new AC!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "I've been using Miami HVAC Repair for annual maintenance for the past 5 years, and they are always reliable and professional. They keep my AC running smoothly and have prevented several potential problems. Highly recommend their maintenance plan!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Emergency HVAC Service",
+        "text": "Our AC broke down on a Sunday evening, and I was worried we'd have to wait until Monday to get it fixed. Miami HVAC Repair answered my call right away and had a technician at my house within an hour. The technician was able to fix the problem quickly and saved the day!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Daniel L.",
+        "rating": 5,
+        "service": "Air Purification Systems",
+        "text": "I suffer from severe allergies, and the air purification system installed by Miami HVAC Repair has made a huge difference in my home. The air feels cleaner and I'm breathing much easier. The installation was quick and professional.",
+        "date": "2025-02-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami HVAC Repair | Trusted HVAC Services",
+        "description": "Expert HVAC repair, installation, and maintenance in Miami, FL. Fast response, transparent pricing, and quality workmanship."
+      },
+      "about": {
+        "title": "About Miami HVAC Repair | Local HVAC Experts",
+        "description": "Learn about Miami HVAC Repair's commitment to providing reliable and honest HVAC services in Miami-Dade County."
+      },
+      "services": {
+        "title": "HVAC Services | Miami HVAC Repair",
+        "description": "Comprehensive HVAC services in Miami, FL including AC repair, installation, duct cleaning, and emergency service."
+      },
+      "contact": {
+        "title": "Contact Miami HVAC Repair | Get a Free Quote",
+        "description": "Contact Miami HVAC Repair for a free quote on HVAC services in Miami, FL. Call us today!"
+      },
+      "reviews": {
+        "title": "Miami HVAC Repair Reviews | Customer Testimonials",
+        "description": "Read reviews from satisfied customers of Miami HVAC Repair. See why we're the trusted choice for HVAC services in Miami."
+      },
+      "service-areas": {
+        "title": "HVAC Service Areas | Miami HVAC Repair",
+        "description": "Miami HVAC Repair provides HVAC services throughout Miami-Dade County. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp",
+      "emergency-hvac-service": "/images/service-emergency-hvac-service.webp",
+      "air-purification": "/images/service-air-purification.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-hvac-service": {
+        "src": "/images/service-emergency-hvac-service.webp",
+        "srcset": "/images/service-emergency-hvac-service-400w.webp 400w, /images/service-emergency-hvac-service-800w.webp 800w, /images/service-emergency-hvac-service-1200w.webp 1200w, /images/service-emergency-hvac-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-purification": {
+        "src": "/images/service-air-purification.webp",
+        "srcset": "/images/service-air-purification-400w.webp 400w, /images/service-air-purification-800w.webp 800w, /images/service-air-purification-1200w.webp 1200w, /images/service-air-purification.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
